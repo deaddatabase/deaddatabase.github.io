@@ -1,0 +1,2584 @@
+{
+  "ResourceName": "Titans_Old",
+  "OldTitans": [
+    {
+      "ResourceName": "Titans_1_8",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "Hero",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFI",
+          "poolSlot4": "HumanDEFI",
+          "poolSlot5": "HumanDEFI",
+          "poolSlot6": "HumanDEFI"
+        },
+        {
+          "id": "HeroVerB",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFI",
+          "poolSlot4": "HumanDEFI",
+          "poolSlot5": "HumanDEFI",
+          "poolSlot6": "HumanDEFI"
+        },
+        {
+          "id": "HeroVerC",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFII",
+          "poolSlot6": "HumanDEFII"
+        },
+        {
+          "id": "HeroVerD",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFII",
+          "poolSlot6": "HumanDEFII"
+        },
+        {
+          "id": "HeroVerE",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "PaladdinHero",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFI",
+          "poolSlot4": "TitanDEFI",
+          "poolSlot5": "TitanDEFI",
+          "poolSlot6": "TitanDEFI"
+        },
+        {
+          "id": "PaladdinHeroVerB",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFI",
+          "poolSlot4": "TitanDEFI",
+          "poolSlot5": "TitanDEFI",
+          "poolSlot6": "TitanDEFI"
+        },
+        {
+          "id": "PaladdinHeroVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFII",
+          "poolSlot6": "TitanDEFII"
+        },
+        {
+          "id": "PaladdinHeroVerD",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFII",
+          "poolSlot6": "TitanDEFII"
+        },
+        {
+          "id": "PaladdinHeroVerE",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SabotageHero",
+          "poolSlot1": "TitanATKI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanATKI",
+          "poolSlot4": "TitanATKI",
+          "poolSlot5": "TitanATKI",
+          "poolSlot6": "TitanATKI"
+        },
+        {
+          "id": "SabotageHeroVerB",
+          "poolSlot1": "TitanATKI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanATKI",
+          "poolSlot4": "TitanATKI",
+          "poolSlot5": "TitanATKI",
+          "poolSlot6": "TitanATKI"
+        },
+        {
+          "id": "SabotageHeroVerC",
+          "poolSlot1": "TitanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "TitanATKII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanATKII",
+          "poolSlot6": "TitanATKII"
+        },
+        {
+          "id": "SabotageHeroVerD",
+          "poolSlot1": "TitanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "TitanATKII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanATKII",
+          "poolSlot6": "TitanATKII"
+        },
+        {
+          "id": "SabotageHeroVerE",
+          "poolSlot1": "TitanPoisonATKI",
+          "poolSlot2": "TitanPoisonATKII",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanATKIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "UnakHero",
+          "archetype": "Champion",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "TitanMIXI",
+          "poolSlot3": "TitanMIXI",
+          "poolSlot4": "TitanMIXI",
+          "poolSlot5": "TitanMIXI",
+          "poolSlot6": "TitanMIXI"
+        },
+        {
+          "id": "UnakHeroVerB",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "TitanMIXI",
+          "poolSlot3": "TitanMIXI",
+          "poolSlot4": "TitanMIXI",
+          "poolSlot5": "TitanMIXI",
+          "poolSlot6": "TitanMIXI"
+        },
+        {
+          "id": "UnakHeroVerC",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "GrenadierMIXI",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanMIXII",
+          "poolSlot5": "TitanMIXII",
+          "poolSlot6": "TitanMIXII"
+        },
+        {
+          "id": "UnakHeroVerD",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "TitanMIXII",
+          "poolSlot3": "GrenadierMIXII",
+          "poolSlot4": "TitanMIXII",
+          "poolSlot5": "TitanMIXIII",
+          "poolSlot6": "TitanMIXIII"
+        },
+        {
+          "id": "UnakHeroVerE",
+          "poolSlot1": "TitanFireATKII",
+          "poolSlot2": "GrenadierMIXII",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanFireATKIII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "TitanMIXIII"
+        },
+        {
+          "id": "RagnarHero",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "TitanMIXI",
+          "poolSlot3": "TitanMIXI",
+          "poolSlot4": "TitanMIXI",
+          "poolSlot5": "TitanMIXI",
+          "poolSlot6": "TitanMIXI"
+        },
+        {
+          "id": "RagnarHeroVerB",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "TitanMIXI",
+          "poolSlot3": "TitanMIXI",
+          "poolSlot4": "TitanMIXI",
+          "poolSlot5": "TitanMIXI",
+          "poolSlot6": "TitanMIXI"
+        },
+        {
+          "id": "RagnarHeroVerC",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "GoliathMIXI",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanMIXII",
+          "poolSlot5": "TitanMIXII",
+          "poolSlot6": "TitanMIXII"
+        },
+        {
+          "id": "RagnarHeroVerD",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "GoliathMIXI",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanMIXII",
+          "poolSlot5": "TitanMIXII",
+          "poolSlot6": "TitanMIXII"
+        },
+        {
+          "id": "RagnarHeroVerE",
+          "poolSlot1": "TitanFireATKI",
+          "poolSlot2": "GoliathMIXI",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanMIXII",
+          "poolSlot5": "TitanMIXII",
+          "poolSlot6": "TitanMIXII"
+        },
+        {
+          "id": "FireBoar",
+          "poolSlot1": "TitanPoisonATKII",
+          "poolSlot2": "GrenadierMIXII",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanPoisonATKIII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "TitanMIXIII"
+        },
+        {
+          "id": "FireBoarVerB",
+          "poolSlot1": "TitanIceATKII",
+          "poolSlot2": "GrenadierMIXII",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanIceATKII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "TitanMIXIII"
+        },
+        {
+          "id": "FireBoarVerC",
+          "poolSlot1": "TitanFireATKII",
+          "poolSlot2": "GrenadierMIXII",
+          "poolSlot3": "TitanMIXII",
+          "poolSlot4": "TitanFireATKIII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "TitanMIXIII"
+        },
+        {
+          "id": "Viking",
+          "poolSlot1": "HumanATKII",
+          "poolSlot2": "TitanFireATKII",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKIII",
+          "poolSlot5": "TitanFireATKIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "VikingVerB",
+          "poolSlot1": "HumanATKII",
+          "poolSlot2": "TitanLightningATKII",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKIII",
+          "poolSlot5": "TitanLightningATKIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "VikingVerC",
+          "poolSlot1": "HumanATKII",
+          "poolSlot2": "TitanIceATKII",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKIII",
+          "poolSlot5": "TitanIceATKIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "GuardianElithenMaleCA",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFI",
+          "poolSlot4": "HumanDEFI",
+          "poolSlot5": "HumanDEFI",
+          "poolSlot6": "HumanDEFI"
+        },
+        {
+          "id": "GuardianElithenMaleSA",
+          "poolSlot1": "PikemenDEFII",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFIII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleUA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFII",
+          "poolSlot6": "GrenadierDEFII"
+        },
+        {
+          "id": "GuardianUnakMaleRA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "BeserkerMossmaneFemaleSRA",
+          "poolSlot1": "PantherATKII",
+          "poolSlot2": "TitanLightningATKII",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherATKIII",
+          "poolSlot5": "TitanLightningATKIII",
+          "poolSlot6": "PantherATKIII"
+        },
+        {
+          "id": "InfiltratorElithenFemaleSR",
+          "poolSlot1": "TitanIceATKII",
+          "poolSlot2": "PikemenATKII",
+          "poolSlot3": "TitanIceATKII",
+          "poolSlot4": "TitanIceATKIII",
+          "poolSlot5": "TitanIceATKIII",
+          "poolSlot6": "TitanIceATKIII"
+        },
+        {
+          "id": "PaladinMossmaneMaleSR",
+          "poolSlot1": "TitanFireATKII",
+          "poolSlot2": "PantherDEFII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "PantherDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "InfiltratorElithenMaleU",
+          "poolSlot1": "TitanIceATKI",
+          "poolSlot2": "PikemenATKI",
+          "poolSlot3": "TitanIceATKII",
+          "poolSlot4": "TitanIceATKII",
+          "poolSlot5": "TitanIceATKII",
+          "poolSlot6": "TitanIceATKII"
+        },
+        {
+          "id": "PaladinRagnarMaleR",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "InfiltratorElithenMaleUB",
+          "poolSlot1": "TitanIceATKI",
+          "poolSlot2": "PikemenATKI",
+          "poolSlot3": "TitanIceATKII",
+          "poolSlot4": "TitanIceATKII",
+          "poolSlot5": "TitanIceATKII",
+          "poolSlot6": "TitanIceATKII"
+        },
+        {
+          "id": "BeserkerElithenMaleCA",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "HumanATKI",
+          "poolSlot4": "HumanATKI",
+          "poolSlot5": "HumanATKI",
+          "poolSlot6": "HumanATKI"
+        },
+        {
+          "id": "BezerkerElithenFemaleRA",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenATKII",
+          "poolSlot3": "TitanATKII",
+          "poolSlot4": "PikemenATKII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenATKIII"
+        },
+        {
+          "id": "GuardianRagnarMaleSR",
+          "archetype": "Guardian",
+          "poolSlot1": "GoliathDEFII",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFIII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "ChampionElithenFemaleRA",
+          "poolSlot1": "TitanMIXI",
+          "poolSlot2": "TitanMIXII",
+          "poolSlot3": "PikemenMIXII",
+          "poolSlot4": "TitanMIXII",
+          "poolSlot5": "TitanMIXIII",
+          "poolSlot6": "TitanMIXIII"
+        },
+        {
+          "id": "PaladinRagnarMaleSR",
+          "poolSlot1": "TitanDEFII",
+          "poolSlot2": "GoliathDEFII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladdinHeroEvent",
+          "poolSlot1": "TitanFireATKI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFI",
+          "poolSlot4": "TitanDEFI",
+          "poolSlot5": "TitanDEFI",
+          "poolSlot6": "TitanDEFI"
+        },
+        {
+          "id": "PaladdinHeroVerCEvent",
+          "poolSlot1": "TitanFireATKI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFII",
+          "poolSlot6": "TitanDEFII"
+        },
+        {
+          "id": "PaladdinHeroVerEEvent",
+          "poolSlot1": "TitanFireATKI",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_1_12",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "UnakHeroVerE",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanFireATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanFireATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanFireATKIII"
+        },
+        {
+          "id": "RangerHumanMaleSR",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "Viking",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "VikingVerB",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "VikingVerC",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "VikingVerD",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanATKIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_Glitchdarg",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "SK_RangerRagnarMale_SuperRare_01_Game",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanEarthATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_Champdarg",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "SK_RangerRagnarMale_SuperRare_01_Game",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanEarthATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_Champion",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "BezerkerMossmaneMale_Rare_01_Game",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_Ranger",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "BezerkerMossmaneMale_Rare_01_Game",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_1_20",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "BeserkerMossmaneFemaleSRA",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherATKI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherATKII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherATKIII"
+        },
+        {
+          "id": "PaladdinHeroVerE",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SK_InfiltratorMossmaneMale_Rare_01_Game",
+          "poolSlot1": "TitanPoisonATKI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanPoisonATKII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanPoisonATKIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        },
+        {
+          "id": "GuardianElithenMaleSA",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "PaladinMossmaneMaleSR",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SK_RangerMossmane_FE_01_Game",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "Hero",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerB",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerC",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerD",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerE",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "VikingVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "VikingVerB",
+          "poolSlot1": "SpearmenMIXI",
+          "poolSlot2": "SpearmenMIXI",
+          "poolSlot3": "SpearmenMIXII",
+          "poolSlot4": "SpearmenMIXII",
+          "poolSlot5": "SpearmenMIXIII",
+          "poolSlot6": "SpearmenMIXIII"
+        },
+        {
+          "id": "UnakHeroVerE",
+          "poolSlot1": "TitanDrakorATKI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanFireATKII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanFireATKIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RagnarHeroVerE",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanEarthATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        },
+        {
+          "id": "FireBoar",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        },
+        {
+          "id": "FireBoarVerB",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanIceATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanIceATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanIceATKIII"
+        },
+        {
+          "id": "FireBoarVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanFireATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanFireATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanFireATKIII"
+        },
+        {
+          "id": "VikingVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "GuardianElithenMaleCA",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleUA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleRA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleSRA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianElithenMaleR",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianRagnarMaleU",
+          "poolSlot1": "GoliathDEFI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "GuardianElithenFemaleUA",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianElithenMaleCB",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianElithenFemaleUB",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleUB",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianRagnarMaleUB",
+          "poolSlot1": "GoliathDEFI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "GuardianRagnarMaleSR",
+          "poolSlot1": "GoliathDEFI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "PaladinRagnarMaleSR",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RangerHumanFemaleUA",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "RangerHumanMaleRA",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "RangerElithenMaleSR",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerRagnarFemaleRA",
+          "poolSlot1": "GoliathATKI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathATKII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathATKIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "RangerUnakMaleRA",
+          "poolSlot1": "GrenadierATKI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierATKII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "RangerElithenFemaleUC",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerElithenFemaleCA",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerRagnarFemaleCA",
+          "poolSlot1": "GoliathATKI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathATKII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathATKIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "RangerElithenFemaleFireRanger",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerUnakMaleSR",
+          "poolSlot1": "GrenadierATKI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierATKII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleCA",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleUA",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleRA",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleSR",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "ChampionHumanMale_SuperRare",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "VikingVerD",
+          "poolSlot1": "ArcherMIXI",
+          "poolSlot2": "ArcherMIXI",
+          "poolSlot3": "ArcherMIXII",
+          "poolSlot4": "ArcherMIXII",
+          "poolSlot5": "ArcherMIXIII",
+          "poolSlot6": "ArcherMIXIII"
+        },
+        {
+          "id": "SK_PaladinUnakMale_SuperRare_01_Game",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SK_ChampionMossmaneMale_SuperRare_01_Game",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        },
+        {
+          "id": "SK_GuardianMossmaneMale_SuperRare_01_Game",
+          "poolSlot1": "PantherDEFI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherDEFII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherDEFIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "SK_RangerRagnarMale_SuperRare_01_Game",
+          "poolSlot1": "GoliathATKI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathATKII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathATKIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "SK_GuardianRagnar_VIP_01_Game",
+          "poolSlot1": "UrkonDivineI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "PaladinRagnarMale_VIP",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SK_BezerkerRagnarMale_SuperRare_01_Game",
+          "poolSlot1": "GoliathATKI",
+          "poolSlot2": "GoliathATKI",
+          "poolSlot3": "GoliathATKII",
+          "poolSlot4": "GoliathATKII",
+          "poolSlot5": "GoliathATKIII",
+          "poolSlot6": "GoliathATKIII"
+        },
+        {
+          "id": "BeserkerElithenMaleSRA",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenATKI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenATKII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenATKIII"
+        },
+        {
+          "id": "ChampionUnakMaleFireKing",
+          "poolSlot1": "TitanFireKingATKI",
+          "poolSlot2": "TitanFireKingDEFI",
+          "poolSlot3": "TitanFireKingATKII",
+          "poolSlot4": "TitanFireKingDEFII",
+          "poolSlot5": "TitanFireKingATKIII",
+          "poolSlot6": "TitanFireKingDEFIII"
+        },
+        {
+          "id": "BezerkerRagnarMale_VIP_Yeti",
+          "poolSlot1": "YetiMIXI",
+          "poolSlot2": "GoliathMIXX",
+          "poolSlot3": "YetiMIXI",
+          "poolSlot4": "GoliathMIXX",
+          "poolSlot5": "PantherMIXX",
+          "poolSlot6": "YetiMIXI"
+        },
+        {
+          "id": "ChampionHumanMale_VIP_Thor",
+          "poolSlot1": "ThorVIPI",
+          "poolSlot2": "TitanLightningATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanLightningATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanLightningATKIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_1_22",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "HeroVerE",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "RangerHumanMaleSR",
+          "poolSlot1": "ArcherMIXX",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "BezerkerHumanFemaleSR",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanATKI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanATKII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "PaladinRagnarMale_VIP",
+          "poolSlot1": "GoliathMIXX",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "Viking",
+          "poolSlot1": "TitanLightningATKI",
+          "poolSlot2": "TitanLightningATKI",
+          "poolSlot3": "TitanLightningATKII",
+          "poolSlot4": "TitanLightningATKII",
+          "poolSlot5": "TitanLightningATKIII",
+          "poolSlot6": "TitanLightningATKIII"
+        },
+        {
+          "id": "VikingVerB",
+          "poolSlot1": "SpearmenMIXI",
+          "poolSlot2": "SpearmenMIXI",
+          "poolSlot3": "SpearmenMIXII",
+          "poolSlot4": "SpearmenMIXII",
+          "poolSlot5": "SpearmenMIXIII",
+          "poolSlot6": "SpearmenMIXIII"
+        },
+        {
+          "id": "VikingVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "InfiltratorHumanMale_VIP_Loki",
+          "poolSlot1": "LokiVIPI",
+          "poolSlot2": "TitanLightningATKI",
+          "poolSlot3": "TitanLightningATKII",
+          "poolSlot4": "TitanLightningATKII",
+          "poolSlot5": "TitanLightningATKIII",
+          "poolSlot6": "TitanLightningATKIII"
+        },
+        {
+          "id": "VikingVerD",
+          "poolSlot1": "ArcherMIXI",
+          "poolSlot2": "ArcherMIXI",
+          "poolSlot3": "ArcherMIXII",
+          "poolSlot4": "ArcherMIXII",
+          "poolSlot5": "ArcherMIXIII",
+          "poolSlot6": "ArcherMIXIII"
+        },
+        {
+          "id": "PaladinHumanMale_ShadowKing",
+          "poolSlot1": "KorthanVIPI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "KTitanDEFIII"
+        },
+        {
+          "id": "SabotageHeroVerE",
+          "poolSlot1": "TitanATKI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanATKII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanATKIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "SK_InfiltratorMossmaneFemale_SuperRare_01_Game",
+          "poolSlot1": "TitanPoisonATKI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanPoisonATKII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanPoisonATKIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        },
+        {
+          "id": "InfiltratorElithenFemale_FE",
+          "poolSlot1": "AuriaDivineI",
+          "poolSlot2": "TitanIceATKI",
+          "poolSlot3": "TitanIceATKII",
+          "poolSlot4": "TitanIceATKII",
+          "poolSlot5": "TitanIceATKIII",
+          "poolSlot6": "TitanIceATKIII"
+        },
+        {
+          "id": "RangerHumanFemale_VIP_I",
+          "poolSlot1": "ArtemisVIPI",
+          "poolSlot2": "PantherDEFII",
+          "poolSlot3": "ArtemisVIPII",
+          "poolSlot4": "PantherDEFX",
+          "poolSlot5": "ArtemisVIPIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "SK_GuardianRagnar_VIP_01_Game",
+          "poolSlot1": "UrkonDivineI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "ChampionElithenMale_SuperRare",
+          "poolSlot1": "PikemenMIXX",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "TitanIceATKII",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "TitanIceATKIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RangerHumanMale_VIP_Odin",
+          "poolSlot1": "OdinVIPI",
+          "poolSlot2": "ArcherMIXX",
+          "poolSlot3": "OdinVIPII",
+          "poolSlot4": "ArcherMIXX",
+          "poolSlot5": "OdinVIPIII",
+          "poolSlot6": "ArcherMIXX"
+        },
+        {
+          "id": "PaladinElithenMale_SuperRare",
+          "poolSlot1": "PikemenMIXX",
+          "poolSlot2": "TitanDualResistPoisonI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SK_InfiltratorUnakMale_SuperRare_01_Game",
+          "poolSlot1": "TitanFireATKI",
+          "poolSlot2": "TitanFireATKI",
+          "poolSlot3": "TitanFireATKII",
+          "poolSlot4": "TitanFireATKII",
+          "poolSlot5": "TitanFireATKIII",
+          "poolSlot6": "TitanFireATKIII"
+        },
+        {
+          "id":"RangerUnakMaleSR",
+          "poolSlot1":"GrenadierATKI",
+          "poolSlot2":"GrenadierDEFI",
+          "poolSlot3":"GrenadierATKII",
+          "poolSlot4":"GrenadierDEFII",
+          "poolSlot5":"GrenadierATKIII",
+          "poolSlot6":"GrenadierDEFIII"
+        },
+        {
+          "id":"ChampionHumanMale_VIP_MonkeyKing",
+          "poolSlot1":"TitanEarthATKIII",
+          "poolSlot2":"GoliathMIXX",
+          "poolSlot3":"ArcherMIXX",
+          "poolSlot4":"GoliathMIXX",
+          "poolSlot5":"ArcherMIXX",
+          "poolSlot6":"GoliathMIXX"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_1_31",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "Hero",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerB",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerC",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerD",
+          "poolSlot1": "HumanDEFI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanDEFII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanDEFIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "HeroVerE",
+          "poolSlot1": "MilitiaRESII",
+          "poolSlot2": "MilitiaRESII",
+          "poolSlot3": "MilitiaRESII",
+          "poolSlot4": "MilitiaDEFX",
+          "poolSlot5": "MilitiaDEFX",
+          "poolSlot6": "MilitiaDEFX"
+        },
+        {
+          "id": "PaladdinHero",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladdinHeroVerB",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladdinHeroVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladdinHeroVerD",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladdinHeroVerE",
+          "poolSlot1": "TitanFreyaDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "UnakHero",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "UnakHeroVerB",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "UnakHeroVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "UnakHeroVerD",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanFireATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanFireATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanFireATKIII"
+        },
+        {
+          "id": "UnakHeroVerE",
+          "poolSlot1": "TitanDrakorATKI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanFireATKII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanFireATKIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RagnarHero",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "RagnarHeroVerB",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "RagnarHeroVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanEarthATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        },
+        {
+          "id": "RagnarHeroVerD",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "RagnarHeroVerE",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanEarthATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        },
+        {
+          "id": "FireBoar",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        },
+        {
+          "id": "FireBoarVerB",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanIceATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanIceATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanIceATKIII"
+        },
+        {
+          "id": "FireBoarVerC",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanFireATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanFireATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanFireATKIII"
+        },
+        {
+          "id": "GuardianElithenMaleCA",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianElithenMaleSA",
+          "poolSlot1": "TitanDEFII",
+          "poolSlot2": "PikemenDEFX",
+          "poolSlot3": "GrenadierATKX",
+          "poolSlot4": "PikemenDEFX",
+          "poolSlot5": "GrenadierATKX",
+          "poolSlot6": "PikemenDEFX"
+        },
+        {
+          "id": "GuardianUnakMaleUA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleRA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleSRA",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianElithenMaleR",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "PaladinMossmaneMaleSR",
+          "poolSlot1": "PantherMIXX",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladinRagnarMaleU",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "GuardianRagnarMaleU",
+          "poolSlot1": "GoliathDEFI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "PaladinRagnarMaleR",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "GuardianElithenFemaleUA",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianElithenMaleCB",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianElithenFemaleUB",
+          "poolSlot1": "PikemenDEFI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenDEFII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenDEFIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "GuardianUnakMaleUB",
+          "poolSlot1": "GrenadierDEFI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierDEFII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierDEFIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "GuardianRagnarMaleUB",
+          "poolSlot1": "GoliathDEFI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "PaladinRagnarMaleUB",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladinElithenMaleU",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladinMossmaneFemaleRA",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "GuardianRagnarMaleSR",
+          "poolSlot1": "GoliathDEFI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathDEFIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "PaladinHumanMale_ShadowKing",
+          "poolSlot1": "KorthanVIPIV2",
+          "poolSlot2": "TitanDualResistPhysicalI",
+          "poolSlot3": "TitanDualResistFireI",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "KTitanDEFIII"
+        },
+        {
+          "id": "ChampionMossmaneMaleRA",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        },
+        {
+          "id": "ChampionElithenFemaleRA",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanIceATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanIceATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanIceATKIII"
+        },
+        {
+          "id": "ChampionUnakMaleFireKing",
+          "poolSlot1": "GrenadierMIXX",
+          "poolSlot2": "TitanFireATKII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanFireATKIII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanFireKingDEFIII"
+        },
+        {
+          "id": "ChampionElithenMaleUA",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "ChampionHumanMaleUA",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "PaladinRagnarMaleCA",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladinRagnarMaleSR",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladinMossmaneMaleCA",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RangerHumanFemaleUA",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "RangerHumanMaleRA",
+          "poolSlot1": "HumanATKI",
+          "poolSlot2": "HumanDEFI",
+          "poolSlot3": "HumanATKII",
+          "poolSlot4": "HumanDEFII",
+          "poolSlot5": "HumanATKIII",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "RangerHumanMaleSR",
+          "poolSlot1": "SpearmenDEFII",
+          "poolSlot2": "ArcherOFFX",
+          "poolSlot3": "SpearmenDEFII",
+          "poolSlot4": "ArcherOFFX",
+          "poolSlot5": "SpearmanDEFX",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "RangerElithenMaleSR",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerRagnarFemaleRA",
+          "poolSlot1": "GoliathATKI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathATKII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathATKIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "RangerUnakMaleRA",
+          "poolSlot1": "GrenadierATKI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierATKII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "RangerElithenFemaleUC",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerElithenFemaleCA",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerRagnarFemaleCA",
+          "poolSlot1": "GoliathATKI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathATKII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathATKIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "RangerElithenFemaleFireRanger",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "RangerUnakMaleSR",
+          "poolSlot1": "GrenadierATKI",
+          "poolSlot2": "GrenadierDEFI",
+          "poolSlot3": "GrenadierATKII",
+          "poolSlot4": "GrenadierDEFII",
+          "poolSlot5": "GrenadierATKIII",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleCA",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleUA",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleRA",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleSR",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "PaladdinHeroEvent",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladdinHeroVerCEvent",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladdinHeroVerEEvent",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "ChampionHumanMale_SuperRare",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanATKIII"
+        },
+        {
+          "id": "SK_RangerMossmane_FE_01_Game",
+          "poolSlot1": "PantherKamathiATKI",
+          "poolSlot2": "PantherBasathiDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "SK_PaladinUnakMale_SuperRare_01_Game",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SK_ChampionMossmaneMale_SuperRare_01_Game",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanPoisonATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanPoisonATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanPoisonATKIII"
+        },
+        {
+          "id": "SK_RangerElithenMale_Rare_01_Game",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "SK_GuardianMossmaneMale_SuperRare_01_Game",
+          "poolSlot1": "PantherDEFI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherDEFII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherDEFIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "SK_RangerRagnarMale_SuperRare_01_Game",
+          "poolSlot1": "GoliathATKI",
+          "poolSlot2": "GoliathDEFI",
+          "poolSlot3": "GoliathATKII",
+          "poolSlot4": "GoliathDEFII",
+          "poolSlot5": "GoliathATKIII",
+          "poolSlot6": "GoliathDEFIII"
+        },
+        {
+          "id": "SK_GuardianRagnar_VIP_01_Game",
+          "poolSlot1": "UrkonDivineI",
+          "poolSlot2": "GoliathRESII",
+          "poolSlot3": "GoliathRESII",
+          "poolSlot4": "GoliathRESII",
+          "poolSlot5": "GoliathDEFX",
+          "poolSlot6": "GoliathDEFX"
+        },
+        {
+          "id": "ChampionElithenMale_SuperRare",
+          "poolSlot1": "TriPikemenArmorX",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "TitanIceATKII",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "TitanIceATKX",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladinRagnarMale_VIP",
+          "poolSlot1": "AstarothVIPI",
+          "poolSlot2": "TitanDualResistPhysicalI",
+          "poolSlot3": "TitanDualResistPoisonI",
+          "poolSlot4": "AstarothVIPII",
+          "poolSlot5": "AstarothVIPIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RangerElithenMale_VIP",
+          "poolSlot1": "SkeletonMIXI",
+          "poolSlot2": "PikemenATKI",
+          "poolSlot3": "SkeletonMIXII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "SkeletonMIXIII",
+          "poolSlot6": "PikemenATKIII"
+        },
+        {
+          "id": "ChampionMossmaneMale_VIP",
+          "poolSlot1": "PantherMIXX",
+          "poolSlot2": "TitanPoisonMIXI",
+          "poolSlot3": "TitanPoisonMIXII",
+          "poolSlot4": "TitanPoisonMIXII",
+          "poolSlot5": "TitanMIXIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "ChampionHumanMale_VIP_Thor",
+          "poolSlot1": "ThorVIPI",
+          "poolSlot2": "TitanLightningATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanLightningATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanLightningATKIII"
+        },
+        {
+          "id": "PaladinMossmaneFemale_VIP",
+          "poolSlot1": "PantherMIXX",
+          "poolSlot2": "TitanDualResistIceI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "BoarThunder",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanLightningATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanLightningATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanLightningATKIII"
+        },
+        {
+          "id": "PaladinElithenMale_SuperRare",
+          "poolSlot1": "TitanDEFII",
+          "poolSlot2": "TitanDualResistPoisonI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDualResistFireI",
+          "poolSlot5": "TitanDEFX",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RangerHumanFemale_VIP_I",
+          "poolSlot1": "ArtemisVIPV2I",
+          "poolSlot2": "PantherDEFII",
+          "poolSlot3": "ArtemisVIPV2II",
+          "poolSlot4": "PantherDEFX",
+          "poolSlot5": "ArtemisVIPV2III",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "BoarEarth",
+          "poolSlot1": "GoliathMIXX",
+          "poolSlot2": "TitanEarthATKII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKIII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        },
+        {
+          "id": "PaladinElithenFemale_SuperRare",
+          "poolSlot1": "PikemenMIXX",
+          "poolSlot2": "TitanDualResistLightningI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "GuardianHumanMale_VIP_I",
+          "poolSlot1": "PikemenRESII",
+          "poolSlot2": "PikemenRESII",
+          "poolSlot3": "PikemenRESII",
+          "poolSlot4": "AxeThrowerATKX",
+          "poolSlot5": "AxeThrowerATKX",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "GuardianHumanFemale_SuperRare_I",
+          "poolSlot1": "SpearmenRESII",
+          "poolSlot2": "SpearmenRESII",
+          "poolSlot3": "SpearmenRESII",
+          "poolSlot4": "SpearmanDEFX",
+          "poolSlot5": "SpearmanDEFX",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "RangerRagnarFemale_SuperRare_I",
+          "poolSlot1": "GoliathDEFII",
+          "poolSlot2": "GrenadierATKX",
+          "poolSlot3": "GoliathDEFII",
+          "poolSlot4": "GrenadierATKX",
+          "poolSlot5": "GoliathDEFX",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "ChampionRagnarFemale_SuperRare_I",
+          "poolSlot1": "TitanDEFII",
+          "poolSlot2": "TitanEarthATKII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKIII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        },
+        {
+          "id": "PaladinHumanMale_VIP_II",
+          "poolSlot1": "TitanDEFII",
+          "poolSlot2": "TitanDualResistFireI",
+          "poolSlot3": "TitanDualResistLightningI",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "TitanDEFX",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "BezerkerRagnarFemale_SuperRare_I",
+          "poolSlot1": "GoliathDEFII",
+          "poolSlot2": "AxeThrowerATKX",
+          "poolSlot3": "GoliathMIXX",
+          "poolSlot4": "AxeThrowerATKX",
+          "poolSlot5": "GoliathMIXX",
+          "poolSlot6": "GoliathMIXX"
+        },
+        {
+          "id": "RangerUnakFemale_SuperRare_I",
+          "poolSlot1": "GoliathRESII",
+          "poolSlot2": "GrenadierATKX",
+          "poolSlot3": "GoliathRESII",
+          "poolSlot4": "GrenadierATKX",
+          "poolSlot5": "GoliathDEFX",
+          "poolSlot6": "GrenadierDEFIII"
+        },
+        {
+          "id": "ChampionRagnarMale_VIP_I",
+          "poolSlot1": "KrampusVIPI",
+          "poolSlot2": "TitanIceATKII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanIceATKIII",
+          "poolSlot5": "TitanIceMIXX",
+          "poolSlot6": "TitanMIXX"
+        },
+        {
+          "id": "BezerkerHumanMale_VIP_RTI",
+          "poolSlot1": "CerberusVIPI",
+          "poolSlot2": "SpearmenDEFII",
+          "poolSlot3": "CerberusVIPII",
+          "poolSlot4": "SpearmanDEFX",
+          "poolSlot5": "CerberusVIPIII",
+          "poolSlot6": "HumanATKIII"
+        },
+        {
+          "id": "BoarPhysical",
+          "poolSlot1": "PigsyVIPI",
+          "poolSlot2": "TitanATKII",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanATKIII",
+          "poolSlot5": "TitanMIXX",
+          "poolSlot6": "TitanFireATKIII"
+        },
+        {
+          "id": "ChampionHumanMale_SuperRare_II",
+          "poolSlot1": "LubuVIPI",
+          "poolSlot2": "TitanDEFII",
+          "poolSlot3": "TitanLightningATKII",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "TitanLightningMIXX",
+          "poolSlot6": "TitanDEFIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_1_32",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "GuardianHumanFemale_VIP_Valkyrie",
+          "poolSlot1": "ValkyrieVIPI",
+          "poolSlot2": "GrenadierMIXX",
+          "poolSlot3": "SpearmanMIXX",
+          "poolSlot4": "GrenadierMIXX",
+          "poolSlot5": "SpearmanMIXX",
+          "poolSlot6": "GrenadierMIXX"
+        },
+        {
+          "id": "PaladinRagnarMaleSR",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "PaladinElithenFemale_SuperRare",
+          "poolSlot1": "TitanFireATKI",
+          "poolSlot2": "TitanFireATKII",
+          "poolSlot3": "TitanFireATKIII",
+          "poolSlot4": "TitanFireATKIII",
+          "poolSlot5": "TitanFireATKX",
+          "poolSlot6": "TitanFireATKIII"
+        },
+        {
+          "id": "PaladinElithenFemale_SuperRare",
+          "poolSlot1": "PikemenMIXX",
+          "poolSlot2": "TitanDualResistLightningI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "SK_InfiltratorUnakMale_SuperRare_01_Game",
+          "poolSlot1": "TitanFireATKI",
+          "poolSlot2": "TitanFireATKII",
+          "poolSlot3": "TitanFireATKIII",
+          "poolSlot4": "TitanFireATKIII",
+          "poolSlot5": "TitanFireATKX",
+          "poolSlot6": "TitanFireATKII"
+        },
+        {
+          "id": "BezerkerUnakMale_SuperRare_Two",
+          "poolSlot1": "HalzirSkillI",
+          "poolSlot2": "HalzirSkillII",
+          "poolSlot3": "HalzirSkillIII",
+          "poolSlot4": "HalzirSkillIV",
+          "poolSlot5": "HalzirSkillV",
+          "poolSlot6": "GrenadierMIXX"
+        },
+        {
+          "id": "RagnarHeroVerE",
+          "poolSlot1": "TitanDEFI",
+          "poolSlot2": "TitanEarthATKI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanEarthATKII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "TitanEarthATKIII"
+        },
+        {
+          "id": "RangerMossmaneFemaleSR",
+          "poolSlot1": "PantherATKI",
+          "poolSlot2": "PantherDEFI",
+          "poolSlot3": "PantherATKII",
+          "poolSlot4": "PantherDEFII",
+          "poolSlot5": "PantherATKIII",
+          "poolSlot6": "PantherDEFIII"
+        },
+        {
+          "id": "UnakHeroVerE",
+          "poolSlot1": "TitanDrakorATKI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanFireATKII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanFireATKIII",
+          "poolSlot6": "TitanDEFIII"
+        },
+        {
+          "id": "RangerElithenMaleSR",
+          "poolSlot1": "PikemenATKI",
+          "poolSlot2": "PikemenDEFI",
+          "poolSlot3": "PikemenATKII",
+          "poolSlot4": "PikemenDEFII",
+          "poolSlot5": "PikemenATKIII",
+          "poolSlot6": "PikemenDEFIII"
+        },
+        {
+          "id": "BezerkerRagnarMale_VIP_Yeti",
+          "poolSlot1": "YetiVIPI",
+          "poolSlot2": "PikemenATKX",
+          "poolSlot3": "GoliathDEFX",
+          "poolSlot4": "PikemenATKX",
+          "poolSlot5": "GoliathDEFX",
+          "poolSlot6": "YetiMIXI"
+        },
+        {
+          "id": "GuardianHumanMale_VIP_I",
+          "poolSlot1": "PikemenRESII",
+          "poolSlot2": "PikemenRESII",
+          "poolSlot3": "PikemenRESII",
+          "poolSlot4": "AxeThrowerATKX",
+          "poolSlot5": "AxeThrowerATKX",
+          "poolSlot6": "HumanDEFIII"
+        },
+        {
+          "id": "GuardianElithenMaleSA",
+          "poolSlot1": "TitanDEFII",
+          "poolSlot2": "PikemenDEFX",
+          "poolSlot3": "GrenadierATKX",
+          "poolSlot4": "PikemenDEFX",
+          "poolSlot5": "GrenadierATKX",
+          "poolSlot6": "PikemenDEFX"
+        },
+        {
+          "id": "SK_BezerkerRagnarMale_SuperRare_01_Game",
+          "poolSlot1": "GoliathDEFII",
+          "poolSlot2": "GoliathDEFX",
+          "poolSlot3": "MilitiaMIXX",
+          "poolSlot4": "GoliathDEFX",
+          "poolSlot5": "MilitiaMIXX",
+          "poolSlot6": "GoliathMIXX"
+        },
+        {
+          "id":"Viking",
+          "poolSlot1":"TitanLightningATKIII",
+          "poolSlot2":"AxeThrowerMIXX",
+          "poolSlot3":"GoliathMIXX",
+          "poolSlot4":"AxeThrowerMIXX",
+          "poolSlot5":"GoliathMIXX",
+          "poolSlot6":"AxeThrowerMIXX"
+        },
+        {
+          "id":"VikingVerB",
+          "poolSlot1":"TitanLightningATKIII",
+          "poolSlot2":"AxeThrowerMIXX",
+          "poolSlot3":"PantherMIXX",
+          "poolSlot4":"AxeThrowerMIXX",
+          "poolSlot5":"PantherMIXX",
+          "poolSlot6":"AxeThrowerMIXX"
+        },
+        {
+          "id":"RangerGolemFemale_SuperRare_I",
+          "poolSlot1": "BlackfyreVIPI",
+          "poolSlot2": "BlackfyreVIPII",
+          "poolSlot3": "BlackfyreVIPIII",
+          "poolSlot4": "BlackfyreVIPIV",
+          "poolSlot5": "BlackfyreVIPV",
+          "poolSlot6": "LSS_Firestryke"
+        },
+        {
+          "id": "BeserkerElithenMaleSRA",
+          "poolSlot1": "CrothosSkillI",
+          "poolSlot2": "CrothosSkillII",
+          "poolSlot3": "CrothosSkillIII",
+          "poolSlot4": "CrothosSkillIV",
+          "poolSlot5": "CrothosSkillV",
+          "poolSlot6": "LSS_Crothos"
+        },
+        {
+          "id": "PaladdinHeroVerE",
+          "poolSlot1": "TitanFreyaDEFI",
+          "poolSlot2": "TitanDEFI",
+          "poolSlot3": "TitanDEFII",
+          "poolSlot4": "TitanDEFII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "LSS_Freya"
+        },
+				{
+				  "id": "RangerElithenFemaleFireRanger",
+				  "poolSlot1": "PikemenATKI",
+				  "poolSlot2": "PikemenDEFI",
+				  "poolSlot3": "PikemenATKII",
+				  "poolSlot4": "PikemenDEFII",
+				  "poolSlot5": "PikemenATKIII",
+				  "poolSlot6": "LSS_Vixia"
+				},
+				{
+				  "id": "ChampionHumanMale_VIP_Thor",
+				  "poolSlot1": "ThorVIPI",
+				  "poolSlot2": "TitanLightningATKI",
+				  "poolSlot3": "TitanDEFII",
+				  "poolSlot4": "TitanLightningATKII",
+				  "poolSlot5": "TitanDEFIII",
+				  "poolSlot6": "LSS_Thor"
+				},
+        {
+          "id":"SK_InfiltratorMossmaneFemale_SuperRare_01_Game",
+          "poolSlot1":"TitanPoisonATKFireResistI",
+          "poolSlot2":"TitanPoisonATKII",
+          "poolSlot3":"TitanPoisonATKII",
+          "poolSlot4":"TitanPoisonATKIII",
+          "poolSlot5":"TitanPoisonATKIII",
+          "poolSlot6":"TitanPoisonATKIII"
+        }
+      ]
+    },
+    {
+      "ResourceName": "Titans_1_39",
+      "FileVersion": 0,
+      "Titans": [
+        {
+          "id": "GuardianHumanFemale_VIP_Valkyrie",
+          "poolSlot1": "ValkyrieVIPI",
+          "poolSlot2": "GrenadierATKX",
+          "poolSlot3": "SpearmanDEFX",
+          "poolSlot4": "GrenadierATKX",
+          "poolSlot5": "SpearmanDEFX",
+          "poolSlot6": "LSS_Valkyrie"
+        },
+        {
+          "id": "BezerkerHumanFemale_VIP_I",
+          "poolSlot1": "HelVIPI",
+          "poolSlot2": "MilitiaMIXX",
+          "poolSlot3": "AxeThrowerATKX",
+          "poolSlot4": "MilitiaMIXX",
+          "poolSlot5": "AxeThrowerATKX",
+          "poolSlot6": "LSS_Hel"
+        },
+        {
+          "id": "InfiltratorHumanMale_VIP_Loki",
+          "poolSlot1": "LokiVIPI",
+          "poolSlot2": "TitanLightningATKII",
+          "poolSlot3": "TitanLightningATKII",
+          "poolSlot4": "TitanLightningATKIII",
+          "poolSlot5": "TitanLightningATKIII",
+          "poolSlot6": "LSS_Loki"
+        },
+        {
+          "id": "RangerHumanMale_VIP_Odin",
+          "poolSlot1": "OdinVIPI",
+          "poolSlot2": "ArcherOFFX",
+          "poolSlot3": "OdinVIPV2II",
+          "poolSlot4": "ArcherOFFX",
+          "poolSlot5": "OdinVIPV2III",
+          "poolSlot6": "LSS_Odin"
+        },
+        {
+          "id": "PaladinRagnarMale_VIP_RTI",
+          "poolSlot1": "KronosVIPI",
+          "poolSlot2": "ArcherOFFX",
+          "poolSlot3": "KronosVIPII",
+          "poolSlot4": "ArcherOFFX",
+          "poolSlot5": "KronosVIPIII",
+          "poolSlot6": "LSS_Kronos"
+        },
+        {
+          "id": "ChampionHumanFemale_SuperRare_II",
+          "poolSlot1": "MotherVIPI",
+          "poolSlot2": "MotherVIPII",
+          "poolSlot3": "MotherVIPIII",
+          "poolSlot4": "MotherVIPIV",
+          "poolSlot5": "MotherVIPV",
+          "poolSlot6": "LSS_Gaia"
+        },
+        {
+          "id": "ChampionHumanMale_VIP_V",
+          "poolSlot1": "DionysusVIPI",
+          "poolSlot2": "MilitiaMIXX",
+          "poolSlot3": "DionysusVIPII",
+          "poolSlot4": "MilitiaMIXX",
+          "poolSlot5": "DionysusVIPIII",
+          "poolSlot6": "LSS_Dionysus"
+        },
+        {
+          "id": "BezerkerHumanMale_VIP_RTI",
+          "poolSlot1": "CerberusVIPI",
+          "poolSlot2": "SpearmenDEFII",
+          "poolSlot3": "CerberusVIPII",
+          "poolSlot4": "SpearmanDEFX",
+          "poolSlot5": "CerberusVIPIII",
+          "poolSlot6": "LSS_Cerberus"
+        },
+        {
+          "id": "GuardianHumanMale_SuperRare_II",
+          "poolSlot1": "BerdVIPI",
+          "poolSlot2": "HordeDEFX",
+          "poolSlot3": "BerdVIPII",
+          "poolSlot4": "HordeDEFX",
+          "poolSlot5": "BerdVIPIII",
+          "poolSlot6": "LSS_Ra"
+        },
+        {
+          "id": "ChampionHumanFemale_SuperRare_IV",
+          "poolSlot1": "BabaVIPI",
+          "poolSlot2": "BabaVIPII",
+          "poolSlot3": "BabaVIPIII",
+          "poolSlot4": "BabaVIPIV",
+          "poolSlot5": "BabaVIPV",
+          "poolSlot6": "LSS_BabaYaga"
+        },
+        {
+          "id": "MinotaurHumanMale_SuperRare_VI",
+          "poolSlot1": "KoruptVIPI",
+          "poolSlot2": "TitanVoidATKIII",
+          "poolSlot3": "KoruptVIPII",
+          "poolSlot4": "TitanVoidATKX",
+          "poolSlot5": "KoruptVIPIII",
+          "poolSlot6": "LSS_Koruptaur"
+        },
+        {
+          "id": "RangerHumanMale_SuperRare_II",
+          "poolSlot1": "SkullVIPI",
+          "poolSlot2": "SkullVIPII",
+          "poolSlot3": "SkullVIPIII",
+          "poolSlot4": "SkullVIPIV",
+          "poolSlot5": "SkullVIPV",
+          "poolSlot6": "LSS_Reaver"
+        },
+        {
+          "id": "RangerElithenMale_VIP",
+          "poolSlot1": "CalvaraxVIPI",
+          "poolSlot2": "PikemenDEFX",
+          "poolSlot3": "SkeletonMIXX",
+          "poolSlot4": "PikemenDEFX",
+          "poolSlot5": "SkeletonMIXX",
+          "poolSlot6": "LSS_Calvarax"
+        },
+        {
+          "id": "PaladinHumanFemale_SuperRare_I",
+          "poolSlot1": "RunaRebornVIPI",
+          "poolSlot2": "RunaRebornVIPII",
+          "poolSlot3": "RunaRebornVIPIII",
+          "poolSlot4": "RunaRebornVIPIV",
+          "poolSlot5": "RunaRebornVIPV",
+          "poolSlot6": "LSS_Runa"
+        },
+        {
+          "id": "GuardianHumanMale_VIP_I",
+          "poolSlot1": "ChernobogVIPI",
+          "poolSlot2": "ChernobogVIPII",
+          "poolSlot3": "ChernobogVIPIII",
+          "poolSlot4": "ChernobogVIPIV",
+          "poolSlot5": "ChernobogVIPV",
+          "poolSlot6": "LSS_Chernobog"
+        },
+        {
+          "id": "PaladinHumanMale_VIP_II",
+          "poolSlot1": "TitanDEFII",
+          "poolSlot2": "TitanDualResistFireI",
+          "poolSlot3": "TitanDualResistLightningI",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "TitanDEFX",
+          "poolSlot6": "LSS_Belobog"
+        },
+        {
+          "id": "PaladinHumanMale_ShadowKing",
+          "poolSlot1": "KorthanVIPIV2",
+          "poolSlot2": "TitanDualResistPhysicalI",
+          "poolSlot3": "TitanDualResistFireI",
+          "poolSlot4": "TitanDEFIII",
+          "poolSlot5": "TitanDEFIII",
+          "poolSlot6": "LSS_Korthan"
+        },
+        {
+          "id": "Bezerker1HHumanMale_VIP_I",
+          "poolSlot1": "SkeletonMIXI",
+          "poolSlot2": "AlmarandVIPI",
+          "poolSlot3": "SkeletonMIXII",
+          "poolSlot4": "AlmarandVIPII",
+          "poolSlot5": "SkeletonMIXIII",
+          "poolSlot6": "LSS_Almarand"
+        },
+        {
+          "id": "RangerHumanMale_VIP_II",
+          "poolSlot1": "ZeusVIPI",
+          "poolSlot2": "ZeusVIPII",
+          "poolSlot3": "ZeusVIPIII",
+          "poolSlot4": "ZeusVIPIV",
+          "poolSlot5": "ZeusVIPV",
+          "poolSlot6": "LSS_Zeus"
+        }
+      ]
+    }
+  ]
+}

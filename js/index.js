@@ -693,7 +693,7 @@ function getData(filepath){
   name = name[name.length-1].split('.')[0];
   if(!!window.fetch && !(window.location.protocol.match("file:") || window.location.host.match(localhost)) ){
     fetch(filepath, {
-      method: "post",
+      method: "get",
       headers: {
         "Content-Type":"application/json;"
       }

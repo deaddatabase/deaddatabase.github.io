@@ -941,7 +941,7 @@ function loadData(response) {
         showMenu();//if menu is open, hide it
     removeSpinner();
     d.getElementById("NEWS_LINK").addEventListener("click", loadNews);
-    d.getElementById("TIER_LIST_LINK").addEventListener("click", loadTierList);
+    //d.getElementById("TIER_LIST_LINK").addEventListener("click", loadTierList);
     var frame = document.getElementById("TITAN_IFRAME");
     var parameter_string = decodeURI(location.search.substring(1));
 

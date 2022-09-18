@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta name="author" content="Yuki">
+    <meta name="robots" content="noindex">
+
+    <!-- Custom Dawn of Titans Font -->
+    <style>
+  	body {
+	    font-family: "Arial";
+	    font-size: 16px;
+	    font-style: normal;
+            color: white;
+	    background-color:#111;
+  	}
+	table,
+	th,
+	td {
+	  border: 1px solid white;
+	  border-collapse: collapse;
+	}
+        .icon{
+          width:auto;
+          height:30px;
+          position:relative;
+          top:0px;
+        }
+        .rarity{
+          position:relative;
+          width:30px;
+          left:-30px;
+          margin-right:-20px;
+        }
+	.link,
+	.link:link,
+	.link:visited {
+	  color: #1f7979;
+	  text-decoration: none;
+	}
+	th,
+	td {
+	  padding: 5px;
+	}
+
+	td.center {
+	  text-align: center;
+	}
+
+	td.cell_positive {
+	  color: green;
+	}
+
+	td.cell_negative {
+	  color: red;
+	}
+    </style>
+
+    <script src="./js/userVotes.js"></script>
+  </head>
+
+  <body id="USER_VOTES" onload="initUserVotes()">
+  </body>
+</html>

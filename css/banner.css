@@ -1,0 +1,65 @@
+.alliance_insignia{
+  position:absolute;
+  height:40px;
+  width:auto;
+  left:5px;
+  top:5px;
+}
+
+.banner{
+  position:fixed;
+  z-index:2000;
+}
+
+.outer_banner_container > .banner_container{
+  visibility:visible;
+  opacity:1;
+  border:1px solid rgba(255,255,255,1);
+}
+
+.banner_container{
+  -webkit-transition:visibility 1s, opacity 1s, border-color 1s;
+  -o-transition:visibility 1s, opacity 1s, border-color 1s;
+  transition:visibility 1s, opacity 1s, border-color 1s; 
+  visibility:hidden;
+  opacity:0;
+  border:1px solid rgba(255,255,255,0);
+}
+
+.banner_img{
+  width:auto;
+  height:auto;
+}
+
+.close_banner{
+  position:relative;
+  width:20px;
+  height:20px;
+  background-color:rgba(255,255,255,0.2);
+  border-radius:5px;
+  padding:2px;
+}
+
+.close_bar{
+  background-color:rgb(50,200,255);
+  width:20px;
+  height:4px;
+  margin-bottom:5px;
+  border-radius:5px;
+}
+.close_banner:hover{
+  border:1px solid rgba(255,255,255,0.5);
+  background-color:rgba(255,255,255,0.4);
+}
+.bar_1{
+  -webkit-transform:rotate(45deg);
+      -ms-transform:rotate(45deg);
+          transform:rotate(45deg);
+  position:relative;
+  top:9px;
+}
+.bar_2{
+  -webkit-transform:rotate(-45deg);
+      -ms-transform:rotate(-45deg);
+          transform:rotate(-45deg);
+}

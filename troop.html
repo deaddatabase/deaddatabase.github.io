@@ -1,0 +1,49 @@
+<!DOCTYPE hhtml>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta name="author" content="Yuki">
+    <meta name="robots" content="noindex">
+    <!-- Custom Font -->
+    <style>
+      body {
+        font-family: "Arial";
+        font-size: 16px;
+        font-style: normal;
+      }
+    </style>
+    <!-- JavaScript -->
+    <script src="./js/troop.js" async></script>
+   <!-- <script src="./js/comments.js" async></script>-->
+    <script src="./js/customSelect.js" async></script>
+    <!-- CSS layout -->
+    <link rel="stylesheet" type="text/css" href="./css/troop.css">
+    <!--<link rel="stylesheet" type="text/css" href="./css/comments.css">-->
+    <link rel="stylesheet" type="text/css" href="./css/customSelect.css">
+  </head>
+
+  <body id="TROOP" onload="initTroop()">
+    <h1 id="TROOP_NAME"></h1>
+    <div id="TROOP_CONTAINER" class="flex_row">
+      <div>
+        <div id="TROOP_IMG_CONTAINER">
+        <img id="TROOP_IMG" alt="Troop Image couldn't load.">
+        </div>
+        <div>
+          <div id="TROOP_GRAIN">
+            <div class="flex_row">
+              <img id="GRAIN_IMG" title="Grain needed to level up." alt="Grain Image could not load." src="./images/resources/FOOD.png" >
+              <h3 id="GRAIN_VALUE"></h3>
+            </div>
+            <h3 id="TROOP_TIME" title="Time needed to level up."></h3>
+          </div>
+          <div class="flex_row" style="justify-content:space-around;">
+            <input id="LEVEL_UP_BUTTON" type="image" title="Level up!">
+            <input id="LEVEL_DOWN_BUTTON" type="image" title="Level down!">
+          </div>
+        </div>
+      </div>
+      <table id="TROOP_STATS"></table>
+    </div>
+  </body>
+</html>

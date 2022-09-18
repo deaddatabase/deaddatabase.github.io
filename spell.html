@@ -1,0 +1,49 @@
+<!DOCTYPE hhtml>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta name="author" content="Yuki">
+    <meta name="robots" content="noindex">
+    <!-- Custom Font -->
+    <style>
+      body {
+        font-family: "Arial";
+        font-size: 16px;
+        font-style: normal;
+      }
+    </style>
+    <!-- JavaScript -->
+    <script src="./js/spell.js" async></script>
+    <script src="./js/customSelect.js" async></script>
+    <!--<script src="./js/comments.js"></script>-->
+    <!-- CSS layout -->
+    <link rel="stylesheet" type="text/css" href="./css/spell.css">
+    <link rel="stylesheet" type="text/css" href="./css/customSelect.css">
+    <!--<link rel="stylesheet" type="text/css" href="./css/comments.css">-->
+  </head>
+
+  <body id="SPELL" onload="initSpell()">
+    <h1 id="SPELL_NAME"></h1>
+    <div id="SPELL_CONTAINER" class="flex_row">
+      <div>
+        <div id="SPELL_IMG_CONTAINER">
+        <img id="SPELL_IMG" alt="Spell Image couldn't load.">
+        </div>
+        <div>
+          <div id="SPELL_GRAIN">
+            <div class="flex_row">
+              <img id="GRAIN_IMG" title="Grain needed to level up." alt="Grain Image could not load." src="./images/resources/FOOD.png" >
+              <h3 id="GRAIN_VALUE"></h3>
+            </div>
+            <h3 id="SPELL_TIME" title="Time needed to level up."></h3>
+          </div>
+          <div class="flex_row" style="justify-content:space-around;">
+            <input id="LEVEL_UP_BUTTON" type="image" title="Level up!">
+            <input id="LEVEL_DOWN_BUTTON" type="image" title="Level down!">
+          </div>
+        </div>
+      </div>
+      <table id="SPELL_STATS"></table>
+    </div>
+  </body>
+</html>

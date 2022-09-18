@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /loadComments.php
+Disallow: /sendComment.php
+Disallow: /

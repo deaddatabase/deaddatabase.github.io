@@ -1,0 +1,93 @@
+.c_select{}
+
+.c_value{
+  position: relative;
+  margin: 0;
+  padding: 0 5px 0 5px;
+  border-radius: 5px;
+  background: #cecece;
+  cursor: pointer;
+}
+
+.c_value p{
+  text-align: center;
+  margin:0;
+  font-size: 16px;
+  color: #000;
+}
+
+.c_value p:hover{
+  color: #00A;
+}
+
+.c_dropdown{
+  position: absolute;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  border-radius: 0 0 5px 5px;
+  background: #cecece;
+  -webkit-transition: height 0.5s;
+  -o-transition: height 0.5s;
+  transition: height 0.5s;
+  cursor: pointer;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  scrollbar-color: rgba(0,0,0,0.5) rgba(0,0,0,0);
+  scrollbar-width: none;
+  z-index:1;
+}
+
+.c_options{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  opacity: 0;
+}
+
+.c_option{
+  width: 100%;
+  padding: 0 3px 0 0;
+}
+
+.c_option input[type=radio] {
+  position:relative;
+  top:3px;
+  margin-top:-3px;
+}
+
+.c_option span {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  color: #000;
+}
+
+.c_option:hover {
+  background-color:#0074e8;
+}
+.c_option:hover span {
+  color: #fff;
+}
+.c_option span:hover {
+  color: #fff;
+}
+
+.c_selected_option{
+
+}
+
+
+/* CUSTOM SCROLLBAR 
+::-webkit-scrollbar              {  }
+::-webkit-scrollbar-button       {  }
+::-webkit-scrollbar-track        {  }
+::-webkit-scrollbar-track-piece  {  }
+::-webkit-scrollbar-thumb        {  }
+::-webkit-scrollbar-corner       {  }
+::-webkit-resizer                {  }
+*/

@@ -1,0 +1,68 @@
+#MODAL_CONTAINER_LOAD {
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1500;
+}
+#MODAL_CONTAINER_SPINNER{
+  background-color: rgba(0, 0, 0, 0.75);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1500;
+}
+
+.loading_container {
+  height: 100px;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  width: 300px;
+}
+
+#PROGRESS_BAR {
+  background-color: #1f7979;
+  border-radius: 10px;
+  height: 15%;
+  width: 100%;
+}
+
+#LOADING {
+  border-radius: 5px;
+  color: #1f7979;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 8px 16px;
+  text-transform: uppercase;
+}
+
+#SPINNER {
+  margin: 25% calc(50% - 104.5px);
+  width:209px;
+  height:208px;
+}
+
+.spin_icon_static{
+  position:absolute;
+}
+
+.spin_icon_dynamic{
+  position:absolute;
+    -webkit-animation: spin 2s linear infinite;
+            animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+@keyframes spin {
+    0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}

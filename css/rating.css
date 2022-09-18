@@ -1,0 +1,19 @@
+.icon_name{
+  cursor:pointer;
+  height:20px;
+  width:auto;
+  margin-left:5px;
+}
+
+.rating_positive{
+  color:green;
+}
+
+.rating_negative{
+  color:red;
+}
+
+#RATING{
+ cursor:pointer;
+ margin-left:5px;
+}

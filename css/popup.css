@@ -1,0 +1,49 @@
+#POPUP {
+  background-color: #111;
+  background-position: 20px 30px;
+  background-repeat: no-repeat;
+  border: 1px solid #666;
+  border-radius: 10px;
+  position: absolute;
+  width: 300px;
+  z-index: 10000;
+}
+
+#POPUP p {
+  color:white;
+  font-size: 1em;
+  max-height: 400px;
+  overflow-y:auto;
+  margin: 2px 3px;
+  word-wrap: break-word;
+}
+
+.link {
+  color: #1f7979;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #1f7979;
+  text-shadow: 0 0 3px gray;
+}
+
+.link:visited {
+  color: #1f7979;
+  text-decoration: none;
+}
+
+
+/*Media query*/
+
+@media only screen and (orientation: portrait) and (max-device-width: 554px) {
+  #POPUP p {
+    max-height: 390px;
+  }
+}
+
+@media only screen and (orientation: landscape) and (max-device-width: 554px) {
+  #POPUP p {
+    max-height: 230px;
+  }
+}

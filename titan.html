@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta name="author" content="Yuki">
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- Custom Dawn of Titans Font -->
+    <style>
+  body {
+    font-family: "Arial";
+    font-size: 16px;
+    font-style: normal;
+  }
+    </style>
+
+    <script src="./js/titan.js" async></script>
+    <!--<script src="./js/comments.js" async></script>-->
+    <!--<script src="./js/rating.js" async></script>-->
+    <script src="./js/compress.js" async></script>
+    <script src="./js/html2canvas.js" async></script>
+    <script src="./js/screenshot.js" async></script>
+    <script src="./js/customSelect.js" async></script>
+
+
+    <!-- CSS layout -->
+    <link rel="stylesheet" type="text/css" href="./css/titan.css">
+    <!--<link rel="stylesheet" type="text/css" href="./css/rating.css">-->
+    <link rel="stylesheet" type="text/css" href="./css/customSelect.css">
+    <!--<link rel="stylesheet" type="text/css" href="./css/comments.css">-->
+  </head>
+
+  <body id="TITAN" onload="initTitan()">
+
+    <h2 id="TITAN_NAME"></h2>
+    <div id="TITAN_CONTAINER" class="flex_row">
+
+      <div id="LEFT_COLUMN">
+        <div id="TITAN_IMG_CONTAINER">
+          <img id="TITAN_IMG" alt="Titan Image">
+        </div>
+        <div id="TITAN_RARITY">
+          <div id="TITAN_LEVEL" class="flex_row">
+            <h2 id="LVL"></h2>
+            <h2 id="LVL_VALUE"></h2>
+          </div>
+          <h4 id="XP" title="XP needed for the next level."></h4>
+          <h4 id="XP_TOTAL" title="XP needed from level 1 to the current level.">Total: </h4>
+          <h4 id="XP_FUSION" title="XP a titan gives when used in Titan Fusion.">Fusion: </h4>
+        </div>
+        <div id="LEVEL_CONTAINER" class="flex_row" style="justify-content:space-around;"></div>
+        <table id="TITAN_STATS"></table>
+      </div>
+
+      <div id="CENTER_COLUMN">
+        <div id="TITAN_SKILLS" class="flex_row"></div>
+        <div id="TITAN_RELICS"></div>
+      </div>
+
+      <div id="RIGHT_COLUMN">
+        <table id="TROOP_STATS"></table>
+        <table id="SPELL_STATS"></table>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,82 @@
+#MODAL_CONTAINER {
+  background-color: rgba(1, 1, 1, 0.75);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+#ALERT_BOX {
+  background-color: #111;
+  background-position: 20px 30px;
+  background-repeat: no-repeat;
+  border: 1px solid #666;
+  border-radius: 10px;
+  margin-top: 15px;
+  /*min-height: 100px;*/
+  position: fixed;
+}
+
+#ALERT_BOX h1 {
+  background-color: #e1f0ff;
+  border-bottom: 1px solid #000;
+  border-radius: 10px 10px 0 0;
+  color: #778899;
+  font-size: 1.5625em;
+  font-weight: bold;
+  height: auto;
+  margin: 0;
+  padding: 2px 0 2px 5px;
+}
+
+#ALERT_BOX p {
+  color:white;
+  font-size: 1em;
+  max-height: 400px;
+  overflow-y:auto;
+  margin: 2px 3px;
+  word-wrap: break-word;
+}
+
+#CLOSE_BUTTON {
+  border-radius: 0 10px 0 0;
+  color: #000000;
+  display: block;
+  float: right;
+  height: 25px;
+  margin-right:-10px;
+  text-decoration: none;
+  width: 25px;
+}
+
+.link {
+  color: #1f7979;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #1f7979;
+  text-shadow: 0 0 3px gray;
+}
+
+.link:visited {
+  color: #1f7979;
+  text-decoration: none;
+}
+
+
+/*Media query*/
+
+@media only screen and (orientation: portrait) and (max-device-width: 554px) {
+  #ALERT_BOX p {
+    max-height: 390px;
+  }
+}
+
+@media only screen and (orientation: landscape) and (max-device-width: 554px) {
+  #ALERT_BOX p {
+    max-height: 230px;
+  }
+}

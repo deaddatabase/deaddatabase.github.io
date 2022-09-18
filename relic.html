@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta name="author" content="Yuki">
+    <meta name="robots" content="noindex">
+
+    <!-- Custom Dawn of Titans Font -->
+    <style>
+      body {
+       font-family: "Arial";
+       font-size: 16px;
+       font-style: normal;
+      }
+    </style>
+    <!-- JavaScripts -->
+    <script src="./js/relic.js" async></script>
+    <!--<script src="./js/rating.js" async></script>-->
+    <script src="./js/customSelect.js" async></script>
+    <!-- CSS layout -->
+    <link rel="stylesheet" type="text/css" href="./css/relic.css">
+    <!--<link rel="stylesheet" type="text/css" href="./css/rating.css">-->
+    <link rel="stylesheet" type="text/css" href="./css/customSelect.css">
+  </head>
+
+  <body id="RELIC" onload="initRelic()">
+    <h2 id="RELIC_NAME"></h2>
+
+    <div id="RELIC_CONTAINER" class="flex_row">
+      <img id="RELIC_IMAGE">
+      <div id="RELIC_EFFECTS"></div>
+    </div>
+    <div id="RELIC_SYNERGY_CONTAINER">
+      <span id="RELIC_SYNERGY"></span>
+    </div>
+    <div style="max-width:250px;margin-top:5px;">
+      <div id="RELIC_RARITY">
+        <h2 id="RELIC_LEVEL"></h2>
+        <h4 id="XP" title="XP needed for the next level."></h4>
+        <h4 id="XP_TOTAL" title="XP needed from level 1 to the current level."></h4>
+        <h4 id="XP_FORGE" title="XP a relic gives when used in Relic Forging."></h4>
+      </div>
+      <div id="RELIC_LEVEL_CHANGE" class="flex_row" style="justify-content:space-between;">
+        <input id="LEVEL_UP_BUTTON" type="image" title="Level up!">
+        <div id="RELIC_JUMP_TO_LEVEL"></div>
+        <input id="LEVEL_DOWN_BUTTON" type="image" title="Level down!" >
+      </div>
+    </div>
+  </body>
+</html>

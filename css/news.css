@@ -1,0 +1,22 @@
+body{
+  color:white;
+}
+
+a.link,
+a.link:visited {
+  color: #1f7979;
+  text-decoration: none;
+}
+
+a.link:hover {
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+.news_description {
+  margin: auto;
+  padding-left: 50px;
+}
+
+.rarity {
+  height: 13px;
+}

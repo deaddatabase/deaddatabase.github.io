@@ -1,0 +1,71 @@
+.div_comment {
+  background-color: #fff;
+  border: 1px solid #666;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+          box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display:inline-block;
+  margin-bottom: 10px;
+  margin-right:5px;
+}
+
+.div_comment > input{
+  margin:5px;
+}
+
+.comment_title {
+  background-color: #e1f0ff;
+  border-bottom: 1px solid #000;
+  border-radius: 10px 10px 0 0;
+  color: #1f7979;
+  font-size: 1.5625em;
+  font-weight: bold;
+  height: auto;
+  margin: 0 0 5px 0;
+  padding: 2px 0 2px 5px;
+}
+
+.comment_likes {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 2px;
+}
+
+.comment_vote {
+  width: auto;
+  height: 20px;
+  position: relative;
+  top: 5px;
+  margin: 0px 5px 0px 10px;
+}
+
+.name_comment {
+  margin: 0;
+}
+
+.txt_comment {
+  color:black;
+  font-size: 1em;
+  color:black;
+  height: auto;
+  margin: 0;
+  padding: 5px;
+}
+
+.password {
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+.build_icon{
+  border-radius:5px;
+  border: 1px solid black;
+  height:35px;
+  width:35px;
+  margin-left:3px;
+}

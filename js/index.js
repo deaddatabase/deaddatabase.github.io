@@ -126,7 +126,7 @@ function beginLoading(){
   //createLoadingAnimation();
   max_res = assets.length;
   for(var j=0; j<assets.length; j++){
-    getData("./data/" + assets[j]);
+    getData("https://raw.githubusercontent.com/dotdatabase/dotdatabase.github.io/master/data/" + assets[j]);
   }
 }
 

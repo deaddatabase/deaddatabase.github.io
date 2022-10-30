@@ -654,6 +654,22 @@ a.link:hover {
   /*size of container - header - level span */
 }
 
+.theme_selector_container {
+  margin: 5px 0 2px 0;
+}
+.theme_selector {
+  cursor: pointer;
+  margin-left: 8px;
+}
+.theme_selector span {
+  font-weight: normal;
+  color: #999;
+}
+.theme_selector input:checked+span {
+  font-weight: bold;
+  color: #fff;
+}
+
 @media screen and (max-device-width: 1003px) {
   #CENTER_COLUMN {
   /*-webkit-box-ordinal-group: 4;*/

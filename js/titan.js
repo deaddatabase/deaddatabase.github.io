@@ -279,6 +279,61 @@ function loadAlternate(event){
   event.preventDefault();
 }
 
+function initThemes(title_container) {
+  var themes = ["titan", "zombie"];
+  var themeContainer = document.createElement("div");
+  themeContainer.classList.add("theme_selector_container");
+
+  for(var i = 0; i < themes.length; i++) {
+    var label = document.createElement("label");
+    label.classList.add("theme_selector");
+    var labelSpan = document.createElement("span");
+    var theme = themes[i];
+    labelSpan.innerText = theme.toUpperCase();
+    var input = document.createElement("input");
+    input.type = "radio";
+    input.name = "theme_input";
+    input.id = "theme_input_" + theme;
+    input.value = theme;
+    label.appendChild(input);
+    label.appendChild(labelSpan);
+    themeContainer.appendChild(label);
+    input.addEventListener("change", function(event){
+      localStorage.setItem("theme", this.value);
+      var name = document.getElementById("TITAN_NAME");
+      name = name.dataset.id;
+      var titan = parent.getTitanById(name);
+      var titan_img = document.getElementById("TITAN_IMG");
+      titan_img.src = "./images/" + getImageFolder() + titan.uiIcon + ".png";
+    });
+  }
+
+  title_container.appendChild(themeContainer);
+  var theme = getTheme();
+  var selectedInput = document.getElementById('theme_input_' + theme);
+  if (selectedInput != null) {
+    selectedInput.checked = true;
+  }
+}
+
+
+function getImageFolder() {
+  var theme = getTheme();
+  if (theme == "titan") {
+    return "";
+  }
+  return theme + "/";
+}
+
+function getTheme() {
+  var theme = localStorage.getItem("theme");
+  if (theme == null) {
+    theme = "zombie";
+    localStorage.setItem("theme", theme);
+  }
+  return theme;
+}
+
 function initTitan() {
   var parameters = decodeURI(location.search.substring(1)).split('&');
   //Load from json
@@ -394,7 +449,7 @@ function initTitan() {
     //set the titan's img
     var titan_img = d.getElementById("TITAN_IMG");
     titan_img.addEventListener("error", loadAlternate);
-    titan_img.src = "./images/" + titan.uiIcon + ".png";
+    titan_img.src = "./images/" + getImageFolder() + titan.uiIcon + ".png";
 
     //setting race,class img
     var image_container = d.getElementById("TITAN_IMG_CONTAINER");
@@ -512,6 +567,7 @@ function initTitan() {
       }
     });
     d.getElementById("TITAN_NAME").appendChild(title_container);
+    initThemes(title_container);
     title_select.finalise();
 
     //set default max Level matching ascension 1
